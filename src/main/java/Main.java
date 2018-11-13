@@ -3,5 +3,6 @@ public class Main {
         System.out.println("initial");
         System.out.println("first");
         System.out.println("second");
+        System.out.println("third");
     }
 }
